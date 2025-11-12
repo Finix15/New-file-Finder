@@ -1,4 +1,4 @@
-# MacOS New File
+# Create-new-file-Finder
 
 **[English](#) | [Tiếng Việt](./README.vi.md)**
 
