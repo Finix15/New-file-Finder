@@ -1,4 +1,4 @@
-# Create-new-file-Finder
+# Create new file with right-click in Finder
 
 **[English](#) | [Tiếng Việt](./README.vi.md)**
 
